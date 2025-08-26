@@ -18,5 +18,5 @@ This project relies on two widely used public datasets:
   Citation: Schmidt et al., 2018 (ACM ICMI).  
 
 - **[REALDISP (Realistic Sensor Displacement Dataset)](https://archive.ics.uci.edu/dataset/305/realdisp+activity+recognition+dataset)**  
-  A large-scale human activity dataset with 17 participants, including accelerometer, gyroscope, and magnetometer signals across 33 activities, recorded with deliberate sensor displacement to simulate real-world wearable conditions.  
+  A large-scale human activity dataset with 17 participants, including ACC, GYRO, and MAG signals across 33 activities, recorded with deliberate sensor displacement to simulate real-world wearable conditions.  
   Citation: Reyes-Ortiz et al., 2016 (*J. Ambient Intell. Smart Environ.*).
