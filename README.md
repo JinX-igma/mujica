@@ -12,7 +12,8 @@ It integrates **cross-task pretraining**, **active learning**, **modality robust
 
 This project relies on two widely used public datasets:
 
-- **[WESAD (Wearable Stress and Affect Detection)](https://doi.org/10.24432/C5TG7C)**  
+- **[WESAD (Wearable Stress and Affect Detection)]([https://doi.org/10.24432/C5TG7C](https://archive.ics.uci.edu/dataset/465/wesad%2Bwearable%2Bstress%2Band%2Baffect%2Bdetection
+))**  
   A multimodal dataset with 17 subjects, including ECG, EDA, EMG, RESP, TEMP, and ACC signals,  
   recorded under baseline, stress, and amusement conditions.  
   Citation: Schmidt et al., 2018 (ACM ICMI).  
