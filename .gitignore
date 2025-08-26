@@ -205,3 +205,39 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Datasets (raw, processed, cache)
+data/raw/
+data/interim/
+data/processed/
+datasets/
+*.h5
+*.hdf5
+*.parquet
+*.csv
+*.tsv
+
+# Models / Checkpoints / Training outputs
+checkpoints/
+runs/
+outputs/
+reports/
+logs/
+*.pt
+*.pth
+*.onnx
+*.trt
+*.engine
+calib.cache
+
+# Experiment results / figures
+reports/*.csv
+reports/*.json
+reports/*.pdf
+reports/figures/
+reports/images/
+reports/tmp/
+
+# Jetson TX2 profiling logs
+tegra.log
+nv_*_profile.txt
