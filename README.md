@@ -17,7 +17,6 @@ This project relies on two widely used public datasets:
   recorded under baseline, stress, and amusement conditions.  
   Citation: Schmidt et al., 2018 (ACM ICMI).  
 
-- **[MHEALTH (Mobile Health Dataset)](https://archive.ics.uci.edu/dataset/319/mhealth+dataset)**  
-  A mobile health dataset with 10 subjects, including ECG, accelerometer, gyroscope, and magnetometer signals,  
-  covering a variety of physical activities and movements.  
-  Citation: Banos et al., 2014 (Journal of Biomedical Informatics).  
+- **[REALDISP (Realistic Sensor Displacement Dataset)](https://archive.ics.uci.edu/dataset/357/realdisp)**  
+  A large-scale human activity dataset with 17 participants, including accelerometer, gyroscope, and magnetometer signals across 33 activities, recorded with deliberate sensor displacement to simulate real-world wearable conditions.  
+  Citation: Reyes-Ortiz et al., 2016 (*J. Ambient Intell. Smart Environ.*).
